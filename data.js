@@ -325,7 +325,11 @@ export let kanji = [
   },
   {
     hint: "Sleep",
-    answer: "眠る"
+    answer: "寝る"
+  },
+  {
+    hint: "Sleepy",
+    answer: "眠い"
   },
   {
     hint: "Bank",
@@ -741,11 +745,11 @@ export let kanji = [
   },
   {
     hint: "Borrow (Less Formal)",
-    answer: "貸して"
+    answer: "貸しす"
   },
   {
     hint: "Borrow (Formal)",
-    answer: "お借りします"
+    answer: "借りる"
   },
   {
     hint: "Power/Strength",
@@ -753,7 +757,7 @@ export let kanji = [
   },
   {
     hint: "Stand",
-    answer: "立っ"
+    answer: "立つ"
   },
   {
     hint: "Questions",
@@ -789,7 +793,7 @@ export let kanji = [
   },
   {
     hint: "Help",
-    answer: "助けて"
+    answer: "助ける"
   },
   {
     hint: "Location",
@@ -813,7 +817,7 @@ export let kanji = [
   },
   {
     hint: "Think",
-    answer: "思"
+    answer: "思う"
   },
   {
     hint: "Busy",
